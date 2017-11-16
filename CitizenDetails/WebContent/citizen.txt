@@ -1,0 +1,10 @@
+101, Shreyas Purohit, Male, 24-01-94, 23, Dombivli, Mumbai, India, 421201, 7507854284, No, No, 15000, 0, SSC, HSC, Graduation
+102, Shwetali Pawar, Female, 25-12-93, 23, Pune, Pune, India, 416001, 9595955499, Yes, No, 17000, 0, SSC, HSC, Graduation
+103, Pooja Purohit, Female, 7-02-91, 26, , Pune, India, 415509, 9665731434, No, No, 30000, 0, SSC, HSC, Graduation, PostGraduation
+104, Ashwini Khadilakr, Female, 25-10-91, 25, Mumbai, Mumbai, India, 400706, 8446530101, Yes, Yes, a5000, 5, SSC, HSC, Graduation, PostGraduation
+105, Chinmay Agarkar, Male, 20-05-92, 26, Dombivli, Mumbai, India, 400706,9845654512 , Yes, Yes, 80000, 3, SSC, HSC
+106, Padmavati Chitale, Female, 19-04-55, 65, Satara, Mumbai, India, 400706, 3696369563, No, Yes, 5000, 2, SSC
+107, Pawan Patil, Male, 19-04-70, 47, Telangana, Hydrabad, India, 500003, 9582365296, Yes, Yes, 100000, 3, SSC, HSC, Graduation, PostGraduation
+108, Naga Arjun, Male, 29-08-59, 58, Madras, Hydrabad, India, 500004, 9536256345, Yes, Yes, 200000, 6, SSC, HSC, Graduation, PostGraduation
+109, Chiranjeevi, Male, 22-08-55, 62, Godavari, Hydrabad, India, 500005, 9421208575, Yes, Yes, 300000, 10, SSC, HSC, Graduation, PostGraduation
+110, Rajinikanth, Male, 12-12-50, 67, Mysore, Banglore, India, 700007, 7722084414, Yes, Yes, 500000, 10, SSC
