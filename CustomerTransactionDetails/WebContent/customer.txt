@@ -1,0 +1,7 @@
+C1, Shreyas Purohit, 23, Java & Hadoop Devloper, 400000
+C2, Shweali Pawar, 23, Java Devloper, 350000
+C3, Pooja Purohit, 27, Machine Designer, 300000
+C4, Chinmay Agarkar, 33, CA, 800000
+C5, Ashwini Khadilkar, 26, Marketing, 450000
+C6, Magesh Hazare, 42, DB Professor, 500000
+C7, Niyaz Ahamad, 28, Soft Engineer, 600000
